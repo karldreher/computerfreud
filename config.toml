@@ -1,4 +1,4 @@
 baseURL = 'https://computerfreud.pages.dev/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Computer Freud'
 theme = "hugo-theme-minos"
